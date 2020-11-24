@@ -4,6 +4,8 @@ plots/*
 
 #exception to exclusion
 !data/.gitkeep
+!data/input/.gitkeep
+!data/output/.gitkeep
 !data/input/BIP_maps/.gitkeep
 !data/input/BOLD_raw/.gitkeep
 !data/output/BIP_proc/.gitkeep
