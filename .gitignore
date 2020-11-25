@@ -8,6 +8,7 @@ plots/*
 !data/output/.gitkeep
 !data/input/BIP_maps/.gitkeep
 !data/input/BOLD_raw/.gitkeep
+!data/input/ROI_masks/*
 !data/output/BIP_proc/.gitkeep
 !data/output/BOLD_proc/.gitkeep
 !data/output/LI_proc/.gitkeep
