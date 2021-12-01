@@ -1,6 +1,6 @@
 # Language_laterality
 
-This code uses FSL and SPM's laterality index (LI) toolbox to build a framework that quantifies Language laterality for a diverse group of pre-operative patients using fMRI language tasks. The abstract associated with this work is available [here](https://drive.google.com/file/d/1v9avWW8kqCPBRDnGgXQaFJaE9HlT95C3/view?usp=sharing), upon request. 
+This code uses FSL and SPM's laterality index (LI) toolbox to build a framework that quantifies Language laterality for a diverse group of pre-operative patients using fMRI language tasks. The publication associated with this work is available [here](https://link.springer.com/article/10.1007/s00234-021-02685-z). 
   
 ## Getting Started
 
